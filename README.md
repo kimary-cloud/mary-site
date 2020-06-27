@@ -3,7 +3,5 @@
 ### 여러분  
 #### 바이바이  
 
-![tata](https://github.com/kimary-cloud/mary-site/blob/master/tata.jpg?raw=true)
-
-!(https://img.youtu.be/wqm3d7BGczA/0.jpg)(https://youtu.be/wqm3d7BGczA)
+[![tata](https://github.com/kimary-cloud/mary-site/blob/master/tata.jpg?raw=true)](https://youtu.be/wqm3d7BGczA)
 
